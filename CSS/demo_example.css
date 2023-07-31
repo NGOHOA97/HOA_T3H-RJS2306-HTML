@@ -1,0 +1,74 @@
+.block{
+    float: left;
+    width: 100%;
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+.block-top h1{
+    font-size: 40px;
+    color: #222222;
+    text-align: center;
+
+}
+.block-top p{
+    font-size: 20px;
+    color: #222222;
+    text-align: center;
+    width: 640px;
+    margin: 0 auto;
+}
+.btn{
+    float: left;
+    width: 100%;
+    text-align: center;
+    margin:  50px 0;
+
+}
+.btn a{
+    color: white;
+    font-size: 16px;
+    padding: 6px 12px;
+    background-color: rgb(108, 114, 114);
+    text-decoration: none;
+    border-radius: 5px;
+}
+.btn .btn-blue{
+    background-color: blue;
+
+}
+.block-bottom{
+    background-color: #f1f2f3a8;
+    padding-top: 40px;
+}
+img{max-width: 100%;}
+.grid-container{
+float: left;
+width: 100%;
+display: flex; /*Tự động chia theo số lượng phần tử con có trong thẻ đó */
+}
+.card{
+    margin: 15px;
+    border: 1px solid rgb(250, 248, 249);
+    display: block;/*các phần tử con hiển thị thành một khối*/
+    border-radius: 10px;
+}
+.card-body{
+    padding: 15px;
+}
+.card-body p{
+    text-align: justify;
+}
+
+.card-body .card-footer a{
+border: 2px solid #8fa2b4a8 ;
+border-radius: 5px;
+text-decoration: none; /*bỏ dấu gạch chân */
+padding: 5px;
+}
+.card-body .card-footer a{
+    padding: 5px;
+}
+
+

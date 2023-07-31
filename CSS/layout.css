@@ -1,0 +1,10 @@
+
+.block{
+    float: left;
+    width: 100%;
+  
+}
+.conteiner{
+    width: 1200px;
+    margin: 0 auto; /*không cách trên dưới và cách đều 2 bên*/
+}

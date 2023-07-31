@@ -1,0 +1,16 @@
+img{
+    max-width: 100%;/*Độ rộng của ảnh không vượt qua khối chứa nó*/
+}
+div{
+    width: calc(33.33% - 42px);   /*calc(33% - 32px);*/
+    float: left;
+    margin: 10px; /*margin top, right, bottom, left*/
+    border: 1px solid red;
+    padding: 10px;
+    border-radius: 20px; 
+} 
+.dacbiet{
+    background-color: pink;
+    border: 1px solid blue;
+    margin-left: -20px; /*margin âm chỉ có thể kéo về một chiều */
+}

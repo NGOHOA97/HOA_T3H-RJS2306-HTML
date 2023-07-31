@@ -1,0 +1,23 @@
+.red{
+    background-color: red;
+}
+.green{
+    background-color:green;
+}
+.orange{
+    background-color: orange;
+}
+.blue{
+    background-color: rgb(197, 34, 148);
+}
+.pink{
+    background-color: pink;
+}
+.icon-header{
+    font-size: 50px;
+    color: greenyellow;
+}
+ /* -input (tối đa 255 ký tự)
+                -textarea (100000 ký tự)
+                -select (choise)
+                -button (nút nhấn) */

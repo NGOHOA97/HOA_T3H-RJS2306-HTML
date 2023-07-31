@@ -1,0 +1,49 @@
+.block{
+    float: left;
+    width: 100%;
+}
+.container{
+    float: none;
+    margin: 0 auto;
+    margin: 0 15px;
+
+}
+.body{
+    display: flex;
+    text-align: center;
+    margin: 0 30px;
+}
+
+.heading-1{
+    text-align: center;
+    font-size: 40px;
+
+}
+
+.heading-1 p{
+    padding: 0 15px;
+    text-align: center;
+}
+
+.block-body1{
+display: flex;
+text-align: center;
+margin: 0 40px;
+}
+
+.grid-container{ 
+    border: 1px solid rgb(187, 185, 186);
+    border-radius: 5px;
+    margin: 0 10px;
+    padding: 0 25PX;
+
+}
+.grid-container li{
+    list-style-type: none;
+    font-size: 14px;
+    margin:  5px;
+}
+.money{
+    font-size: 35px;
+
+}
